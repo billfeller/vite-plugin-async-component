@@ -1,0 +1,1 @@
+export { asyncComponentPlugin } from './transform';

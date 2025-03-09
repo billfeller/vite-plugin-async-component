@@ -1,0 +1,13 @@
+{
+  "name": "vite-plugin-async-component",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^6.2.1",
+    "vitest": "^3.0.8"
+  }
+}
