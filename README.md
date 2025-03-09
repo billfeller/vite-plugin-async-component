@@ -1,0 +1,1 @@
+# vitevite-plugin-async-component
